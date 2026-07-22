@@ -1,6 +1,6 @@
 # learning-os — weekly rollup
 
-Generated 2026-07-22 14:07 UTC. Pushed automatically by a systemd timer.
+Generated 2026-07-22 14:12 UTC. Pushed automatically by a systemd timer.
 
 This file exists because a guardrail nobody else can see is not a guardrail. The
 numbers below are not curated — if a week went badly, this is where it says so.
@@ -26,10 +26,10 @@ Minutes logged in the last 28 days: **0**, of which **0** were spent on this tra
 
 | target | score | weakest component |
 |---|---:|---|
-| target-a | 0.000 | coding |
-| target-b | 0.000 | online_assessment |
-| en | 0.000 | speaking |
-| xx_fixture | 0.000 | script_acquisition |
+| target-a | 0.000 | round 1 of 3 |
+| target-b | 0.000 | round 1 of 2 |
+| en | 0.000 | round 1 of 4 |
+| xx_fixture | 0.000 | round 1 of 2 |
 
 ## Gate
 

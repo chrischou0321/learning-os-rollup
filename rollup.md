@@ -1,6 +1,6 @@
 # learning-os — weekly rollup
 
-Generated 2026-07-22 12:49 UTC. Pushed automatically by a systemd timer.
+Generated 2026-07-22 12:58 UTC. Pushed automatically by a systemd timer.
 
 This file exists because a guardrail nobody else can see is not a guardrail. The
 numbers below are not curated — if a week went badly, this is where it says so.
@@ -17,7 +17,8 @@ guardrail.
 | loop_surface_index | — | 0.30 | not measurable |
 | upstream_heartbeat | — | 21.00 | not measurable |
 | escape_days | — | 2.00 | not measurable |
-| rollup_freshness | 0.00 | 8.00 | ok |
+| contact_staleness | — | 90.00 | not measurable |
+| rollup_freshness | 0.01 | 8.00 | ok |
 
 Minutes logged in the last 28 days: **0**, of which **0** were spent on this tracker.
 
@@ -34,7 +35,7 @@ Minutes logged in the last 28 days: **0**, of which **0** were spent on this tra
 
 | company | state | attempts left | why |
 |---|---|---:|---|
-| target-a | no_go | 3 | Not the timing — the preconditions. The stopping rule says now — waiting no longer pays for itself. Blocked by all_rounds_above_floor, distinct_problems, five_minute_english, paid_mock_streak. Cannot yet measure: cold_first_pass_rate, named_referrer — judge these by hand until the instrumentation lands. |
+| target-a | no_go | 3 | Not the timing — the preconditions. The stopping rule says now — waiting no longer pays for itself. Blocked by all_rounds_above_floor, distinct_problems, five_minute_english, named_referrer, paid_mock_streak. Cannot yet measure: cold_first_pass_rate — judge these by hand until the instrumentation lands. |
 | target-b | no_go | ∞ | Not the timing — the preconditions. The stopping rule says now — waiting no longer pays for itself. Blocked by any_evidence_at_all. |
 
 ## Commits, last 14 days

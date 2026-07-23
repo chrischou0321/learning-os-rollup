@@ -1,6 +1,6 @@
 # learning-os — weekly rollup
 
-Generated 2026-07-23 03:13 UTC. Pushed automatically by a systemd timer.
+Generated 2026-07-23 03:23 UTC. Pushed automatically by a systemd timer.
 
 This file exists because a guardrail nobody else can see is not a guardrail. The
 numbers below are not curated — if a week went badly, this is where it says so.
@@ -14,11 +14,11 @@ guardrail.
 | guardrail | value | limit | status |
 |---|---:|---:|---|
 | meta_ratio | 0.00 | 0.12 | ok |
-| loop_surface_index | 0.00 | 0.30 | **BREACHED** |
+| loop_surface_index | — | 0.30 | not measurable |
 | upstream_heartbeat | — | 21.00 | not measurable |
 | escape_days | — | 2.00 | not measurable |
 | contact_staleness | — | 90.00 | not measurable |
-| rollup_freshness | 0.00 | 8.00 | ok |
+| rollup_freshness | 0.01 | 8.00 | ok |
 
 Minutes logged in the last 28 days: **15**, of which **0** were spent on this tracker.
 

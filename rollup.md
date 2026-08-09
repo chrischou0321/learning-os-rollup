@@ -1,6 +1,6 @@
 # learning-os — weekly rollup
 
-Generated 2026-08-02 20:04 UTC. Pushed automatically by a systemd timer.
+Generated 2026-08-09 20:01 UTC. Pushed automatically by a systemd timer.
 
 This file exists because a guardrail nobody else can see is not a guardrail. The
 numbers below are not curated — if a week went badly, this is where it says so.
@@ -40,7 +40,7 @@ Minutes logged in the last 28 days: **15**, of which **0** were spent on this tr
 
 ## Commits, last 14 days
 
-- learning-os (the tracker): **2** days with commits
+- learning-os (the tracker): **0** days with commits
 - technical repos: **0** days with commits
 - not created yet: perf-gate, cpp-foundations, llm-kernels, perf-notes — until at least one exists, escape days cannot be measured at all
 

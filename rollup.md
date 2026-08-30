@@ -18,7 +18,7 @@ guardrail.
 | upstream_heartbeat | — | 21.00 | not measurable |
 | escape_days | — | 2.00 | not measurable |
 | contact_staleness | — | 90.00 | not measurable |
-| rollup_freshness | 0.01 | 8.00 | ok |
+| rollup_freshness | 0.00 | 8.00 | ok |
 
 Minutes logged in the last 28 days: **0**, of which **0** were spent on this tracker.
 

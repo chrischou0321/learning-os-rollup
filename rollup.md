@@ -1,6 +1,6 @@
 # learning-os — weekly rollup
 
-Generated 2026-09-20 20:04 UTC. Pushed automatically by a systemd timer.
+Generated 2026-09-27 20:01 UTC. Pushed automatically by a systemd timer.
 
 This file exists because a guardrail nobody else can see is not a guardrail. The
 numbers below are not curated — if a week went badly, this is where it says so.
